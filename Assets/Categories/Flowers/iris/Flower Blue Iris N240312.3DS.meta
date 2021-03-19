@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 34374f45ffadad041909bd43fdacbc88
+timeCreated: 1613471034
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Blue_Iri10
+    100002: Blue_Iris0
+    100004: Blue_Iris1
+    100006: Blue_Iris2
+    100008: Blue_Iris3
+    100010: Blue_Iris4
+    100012: Blue_Iris5
+    100014: Blue_Iris6
+    100016: Blue_Iris7
+    100018: Blue_Iris8
+    100020: Blue_Iris9
+    100022: Blue_Iris_
+    100024: //RootNode
+    400000: Blue_Iri10
+    400002: Blue_Iris0
+    400004: Blue_Iris1
+    400006: Blue_Iris2
+    400008: Blue_Iris3
+    400010: Blue_Iris4
+    400012: Blue_Iris5
+    400014: Blue_Iris6
+    400016: Blue_Iris7
+    400018: Blue_Iris8
+    400020: Blue_Iris9
+    400022: Blue_Iris_
+    400024: //RootNode
+    2300000: Blue_Iri10
+    2300002: Blue_Iris0
+    2300004: Blue_Iris1
+    2300006: Blue_Iris2
+    2300008: Blue_Iris3
+    2300010: Blue_Iris4
+    2300012: Blue_Iris5
+    2300014: Blue_Iris6
+    2300016: Blue_Iris7
+    2300018: Blue_Iris8
+    2300020: Blue_Iris9
+    2300022: Blue_Iris_
+    3300000: Blue_Iri10
+    3300002: Blue_Iris0
+    3300004: Blue_Iris1
+    3300006: Blue_Iris2
+    3300008: Blue_Iris3
+    3300010: Blue_Iris4
+    3300012: Blue_Iris5
+    3300014: Blue_Iris6
+    3300016: Blue_Iris7
+    3300018: Blue_Iris8
+    3300020: Blue_Iris9
+    3300022: Blue_Iris_
+    4300000: Blue_Iri10
+    4300002: Blue_Iris9
+    4300004: Blue_Iris8
+    4300006: Blue_Iris7
+    4300008: Blue_Iris6
+    4300010: Blue_Iris5
+    4300012: Blue_Iris4
+    4300014: Blue_Iris3
+    4300016: Blue_Iris2
+    4300018: Blue_Iris1
+    4300020: Blue_Iris0
+    4300022: Blue_Iris_
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Lea1
+    second: {fileID: 2100000, guid: 9df03c2626c7d1f4980ad2165f11031b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Leaf_0
+    second: {fileID: 2100000, guid: 220419df5f442364b81a59352f94df7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Pet1
+    second: {fileID: 2100000, guid: d5a6591056940eb498eee20228551e53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Pet2
+    second: {fileID: 2100000, guid: 631d51816cffd3244a113efb24f45aa9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Pet3
+    second: {fileID: 2100000, guid: 57490794b4f03074895d118d2ed6ac78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Pet4
+    second: {fileID: 2100000, guid: dc61841345fac2e46998c1b34e327500, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Pet5
+    second: {fileID: 2100000, guid: fbe02022216fba040a9dfad678a69fef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Pet6
+    second: {fileID: 2100000, guid: 42ab88ab221369a4fb6a30a1966c4236, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Pet7
+    second: {fileID: 2100000, guid: 45170360fe6bc59439b059a1307d2326, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Pet8
+    second: {fileID: 2100000, guid: a27051654fe23af46820605de32a4b24, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Petal_
+    second: {fileID: 2100000, guid: f7e67272a339a974894924bcfe00ef7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Blue_Iris_Stem_a
+    second: {fileID: 2100000, guid: 7aa8ac18b1992a441bf242bb8f716cea, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

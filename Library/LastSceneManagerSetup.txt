@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Categories/Scene/Flowers.unity
+  isLoaded: 1
+  isActive: 1
